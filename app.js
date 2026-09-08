@@ -6,7 +6,6 @@ server.on('request', (req, res) => {
   res.write("Nodemon is running and watching for changes...\n");
   res.end();
 });
-const PORT = 3000;
-server.listen(PORT, () => {
+server.listen(5000, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });

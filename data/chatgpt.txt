@@ -1,0 +1,37 @@
+ChatGPT Details
+
+1. Name: ChatGPT
+   Developer: OpenAI
+   Type: AI Assistant
+   Launch Year: 2022
+   Primary Use: Conversational AI
+
+2. Name: GPT-4
+   Developer: OpenAI
+   Type: Large Language Model
+   Launch Year: 2023
+   Primary Use: Text Generation and Reasoning
+
+3. Name: GPT-4o
+   Developer: OpenAI
+   Type: Multimodal AI Model
+   Launch Year: 2024
+   Primary Use: Text, Image and Voice Interaction
+
+4. Name: ChatGPT Voice
+   Developer: OpenAI
+   Type: Voice Assistant
+   Launch Year: 2023
+   Primary Use: Voice Conversations
+
+5. Name: ChatGPT Canvas
+   Developer: OpenAI
+   Type: Writing and Coding Workspace
+   Launch Year: 2024
+   Primary Use: Writing and Programming
+
+6. Name: ChatGPT Search
+   Developer: OpenAI
+   Type: AI Search Feature
+   Launch Year: 2024
+   Primary Use: Finding Information on the Web
