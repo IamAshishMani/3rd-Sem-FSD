@@ -2,10 +2,10 @@
   "name": "lab-3",
   "version": "1.0.0",
   "description": "",
-  "main": "prg11.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node prg11.js",
-    "dev": "nodemon prg11.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
